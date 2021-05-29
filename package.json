@@ -33,7 +33,7 @@
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
     "socket.io": "^2.3.0",
-    "ws": "^6.1.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.5",
